@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: Click here for installation guide
-      link: /example
+      link: /installation
 ---
